@@ -6,7 +6,9 @@
 
 ### Introduction
 
-For this project, you will train an agent to navigate (and collect bananas!) in a large, square world.  
+This project is part of the Udacity Deep Learning nanodegree program. 
+
+The goal is to create and train and Agent to navigate (and collect bananas!) in a large, square world.  
 
 ![Trained Agent][image1]
 
