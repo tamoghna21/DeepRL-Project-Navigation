@@ -6,7 +6,7 @@
 
 ### Introduction
 
-This project is part of the Udacity Deep Learning nanodegree program. 
+This project is part of the Udacity [Deep Reinforcement Learning Nanodegree Program][https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893]. 
 
 The goal is to create and train and Agent to navigate (and collect bananas!) in a large, square world.  
 
