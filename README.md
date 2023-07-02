@@ -67,4 +67,4 @@ Environment solved in 406 episodes!	Average Score: 13.00
 ```
 ![Score Plot][image2]
 
-For more details see the Report.
+For more details see the [Report](https://github.com/tamoghna21/DeepRL-Project-Navigation/blob/main/Report.pdf).
