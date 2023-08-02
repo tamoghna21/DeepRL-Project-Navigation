@@ -10,7 +10,7 @@
 
 This project is part of the Udacity [Deep Reinforcement Learning Nanodegree Program](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893). It has the environment for Mac OSX. 
 
-The goal is to create and train and Agent to navigate and collect bananas in a large, square world.  
+The goal is to create and train an Agent to navigate and collect bananas in a large, square world.  
 
 ![Trained Agent][image1]
 
