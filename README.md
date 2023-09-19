@@ -4,7 +4,7 @@
 
 [image2]: Score_plot.png "Score Plot"
 
-# Project 1: Navigation
+# Project Navigation - Training Deep Q-Network (Project 1 - Udacity Deep RL)
 
 ### Introduction
 
